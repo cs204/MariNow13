@@ -1,2 +1,0 @@
-# MariNow13
-psets
